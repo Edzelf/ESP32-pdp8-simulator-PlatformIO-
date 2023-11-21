@@ -4,8 +4,8 @@
 
 #define MEMBLOCKS     8                     // Number of 4k memory PDP8 blocks, max is 8
 
-#define WIFI_SSID     "Nokia-basis-11"      // Enter your WiFi credentials here
-#define WIFI_PASSWORD "DEADC0DE11"
+#define WIFI_SSID     "SSID1"               // Enter your WiFi credentials here
+#define WIFI_PASSWORD "xxxxxxxx"
 #define TIMEZONE      "CET-1CEST-2,M3.5.0/02:00:00,M10.5.0/03:00:00"      // Time zone Europe/Amsterdam
 //#define TIMEZONE "NZST-12NZDT-13,M10.1.0/02:00:00,M3.3.0/03:00:00"      // Timezone for New Zealand
 
